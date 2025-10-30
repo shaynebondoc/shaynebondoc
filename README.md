@@ -7,7 +7,7 @@
 
 ## 🎬 About me  
 - Watching movies & reading fiction are my go-to ways to recharge.  
-- I build stuff: I’m currently working on web apps like **BatangBusog** (child-monitoring & feeding system) and **KainSuri** (nutrition & inventory tracker).  
+- I build stuff: I’m currently working on web apps.
 - I code in React, Tailwind CSS, ASP.NET MVC and build full-stack features from UI to backend.  
 - I’m always learning: whether it’s a new library, a framework or a side-project from scratch.
 
@@ -18,14 +18,6 @@ Here are some of the tools I use regularly:
 | Frontend        | Backend          | Database        | Dev & Deploy           |
 |-----------------|------------------|-----------------|------------------------|
 | React, Tailwind | ASP.NET MVC, C#  | PostgreSQL → MySQL | Git, GitHub, Azure     |
-
----
-
-## 📚 What I’m up to  
-- Converting a legacy PostgreSQL schema to MySQL for better compatibility.  
-- Building a sliding to-do list feature in a web project (activated by a button/tab).  
-- Working on a “doctor-side medication adherence summary page” for a healthcare app.  
-- Exploring how to build a website generator where users input a YouTube link and it auto-translates the video.
 
 ---
 
