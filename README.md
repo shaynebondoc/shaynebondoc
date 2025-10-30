@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there 👋 I’m Shayne F. Bondoc</h1>
-  <p>A 21-year-old Tagalog coder & fiction-lover from Diliman, Quezon City.</p>
 </div>
 
 ---
@@ -25,14 +24,6 @@ Here are some of the tools I use regularly:
 - 🎥 Movies of all genres (especially sci-fi, thriller, adventure)  
 - 📖 Fiction reading (fantasy, mystery, contemporary)  
 - 👩‍💻 Side-projects & open-source contributions  
-
----
-
-## 💬 Let’s connect  
-- GitHub: [github.com/ShayneFBondoc](https://github.com/ShayneFBondoc)  
-- LinkedIn: [linkedin.com/in/ShayneFBondoc](https://linkedin.com/in/ShayneFBondoc) (if you have one)  
-- Twitter / X: [@ShayneFBondoc](https://twitter.com/ShayneFBondoc) (optional)  
-- Email: shayne.f.bondoc@example.com (replace with your actual contact if okay)
 
 ---
 
