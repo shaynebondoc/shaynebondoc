@@ -25,13 +25,11 @@ Here are some of the tools I use regularly:
 - 📖 Fiction reading (fantasy, mystery, contemporary)  
 - 👩‍💻 Side-projects & open-source contributions  
 
-[![Shayne's GitHub stats](https://github-readme-stats-alpha-ruddy-92.vercel.app/api?username=shaynebondoc&rank_icon=github&show_icons=true&theme=bear&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-alpha-ruddy-92.vercel.app/api/top-langs/?username=shaynebondoc&hide_progress=true&theme=bear&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center"> GitHub Status</h3>
 <div align="center">
   <img src="https://github-readme-stats-alpha-ruddy-92.vercel.app/api?username=shaynebondoc&rank_icon=github&show_icons=true&theme=bear&border_radius=8" alt="Shayne's Github Status"/>
   <img src="https://github-readme-stats-alpha-ruddy-92.vercel.app/api/top-langs/?username=shaynebondoc&hide_progress=true&theme=bear&border_radius=8" alt="Top Langs"/>
+  
   <a href="https://git.io/streak-stats"><img src="https://shayneb-github-readme-streak-stats.vercel.app?user=shaynebondoc&theme=bear&border_radius=8" alt="GitHub Streak" /></a>
 </div>
 
