@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi there 👋 I’m Shayne F. Bondoc</h1>
+  <img src="https://raw.githubusercontent.com/ShayneFBondoc/ShayneFBondoc/main/2.png" alt="Header banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShayneFBondoc/ShayneFBondoc/main/3.png" alt="Header banner" width="100%">
 </div>
 
 ---
