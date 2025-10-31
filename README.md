@@ -26,8 +26,7 @@ Here are some of the tools I use regularly:
 - 👩‍💻 Side-projects & open-source contributions  
 
 [![Shayne's GitHub stats](https://github-readme-stats-alpha-ruddy-92.vercel.app/api?username=shaynebondoc&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-alpha-ruddy-92.vercel.app/api/top-langs/?username=shaynebondoc&layout=donut-vertical&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-ruddy-92.vercel.app/api/top-langs/?username=shaynebondoc&hide_progress=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
