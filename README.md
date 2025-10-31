@@ -28,6 +28,9 @@ Here are some of the tools I use regularly:
 [![Shayne's GitHub stats](https://github-readme-stats-alpha-ruddy-92.vercel.app/api?username=shaynebondoc&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-alpha-ruddy-92.vercel.app/api/top-langs/?username=shaynebondoc&hide_progress=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats-alpha-ruddy-92.vercel.app/api/wakatime?username=shaynebondoc&theme=bear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 *“Creating & learning everyday — one commit at a time.”*
