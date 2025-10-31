@@ -25,6 +25,7 @@ Here are some of the tools I use regularly:
 - 📖 Fiction reading (fantasy, mystery, contemporary)  
 - 👩‍💻 Side-projects & open-source contributions  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaynebondoc)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *“Creating & learning everyday — one commit at a time.”*
